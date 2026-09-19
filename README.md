@@ -1,4 +1,4 @@
-EV Dynamic Pricing
+#EV Dynamic Pricing
 
 An AI-based smart EV charging system that predicts charging prices dynamically based on charging demand, power consumption, grid load, and time-related factors.
 
