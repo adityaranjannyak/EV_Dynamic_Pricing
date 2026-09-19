@@ -68,3 +68,36 @@ It displays:
 - Charging recommendations
 
 The dashboard provides a simple interface for understanding how charging and grid conditions affect the predicted EV charging price.
+## Technologies Used
+
+- Python
+- Pandas
+- NumPy
+- Scikit-learn
+- Random Forest Regression
+- Joblib
+- Streamlit
+- FastAPI
+- Pydantic
+
+## Project Structure
+
+EV-Dynamic-Pricing/
+│
+├── models/
+│   └── pricing_model.pkl
+│
+├── dashboard.py
+├── dataset_generation.py
+├── step1_data_preparation.py
+├── step2_train_model.py
+├── step3_test model.py
+├── step4_api_integration.py
+├── step5_defining_helper_function.py
+├── step6_defining_main_function.py
+├── step7_error_calc_evaluation.py
+│
+├── ev_dynamic_pricing_60days.csv
+├── trial_dataset_manually_made.csv
+└── requirements.txt
+
