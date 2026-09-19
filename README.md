@@ -1,8 +1,8 @@
-#EV Dynamic Pricing
 
+## EV Dynamic Pricing Model
 An AI-based smart EV charging system that predicts charging prices dynamically based on charging demand, power consumption, grid load, and time-related factors.
 
-Overview
+### Overview
 
 This project implements a machine learning-based dynamic pricing system for electric vehicle (EV) charging. The system uses charging and grid-related parameters to predict the charging price in ₹/kWh.
 
@@ -35,7 +35,7 @@ Interactive Streamlit Dashboard
         ↓
 Dynamic Price Prediction
 
-## Machine Learning Model
+## Machine Learning Model 
 
 The project uses a **Random Forest Regressor** to predict the EV charging price.
 
